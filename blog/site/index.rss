@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>@zozores</title><link>https://zozo.pro.br</link><description>🔥 🐶☕️ THIS IS FINE 🔥</description><pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate><lastBuildDate>Wed, 30 Jul 2025 03:34:31 GMT</lastBuildDate><generator>marmite</generator><item><title>Bem-vindo ao Marmite</title><link>https://zozo.pro.br/bemvindo.html</link><author>zozores</author><category>bemvindo</category><category>welcome</category><guid>https://zozo.pro.br/bemvindo.html</guid><pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate><source url="https://zozo.pro.br">index</source><content:encoded><![CDATA[<!-- Content Injected to every content markdown header -->
+<p>Esta é sua primeira publicação!</p>
+<h2><a href="#edite-este-conteúdo" aria-hidden="true" class="anchor" id="edite-este-conteúdo"></a>Edite este conteúdo</h2>
+<p>edite em <code>content/{date}-welcome.md</code></p>
+<h2><a href="#adicione-mais-conteúdo" aria-hidden="true" class="anchor" id="adicione-mais-conteúdo"></a>Adicione mais conteúdo</h2>
+<p>crie novos arquivos markdown na pasta <code>content</code></p>
+<p>use <code>marmite --new</code> para criar novo conteúdo</p>
+<h2><a href="#personalize-seu-site" aria-hidden="true" class="anchor" id="personalize-seu-site"></a>Personalize seu site</h2>
+<p>edite <code>marmite.yaml</code> para alterar as configurações do site</p>
+<p>edite os arquivos que começam com <code>_</code> na pasta <code>content</code> para alterar o layout</p>
+<p>ou edite os modelos para criar um layout personalizado</p>
+<h2><a href="#implante-seu-site" aria-hidden="true" class="anchor" id="implante-seu-site"></a>Implante seu site</h2>
+<p>leia mais na <a href="https://rochacbruno.github.io/marmite">documentação do marmite</a></p>
+<!-- Content Injected to every content markdown footer -->
+]]></content:encoded></item></channel></rss>

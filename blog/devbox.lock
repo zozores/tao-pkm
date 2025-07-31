@@ -1,0 +1,56 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "github:NixOS/nixpkgs/nixpkgs-unstable": {
+      "resolved": "github:NixOS/nixpkgs/3549532663732bfd89993204d40543e9edaec4f2?lastModified=1742272065&narHash=sha256-ud8vcSzJsZ%2FCK%2Br8%2Fv0lyf4yUntVmDq6Z0A41ODfWbE%3D"
+    },
+    "marmite@latest": {
+      "last_modified": "2025-02-23T09:42:26Z",
+      "resolved": "github:NixOS/nixpkgs/2d068ae5c6516b2d04562de50a58c682540de9bf#marmite",
+      "source": "devbox-search",
+      "version": "0.2.5",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/b4mhcf8m2v9wf32z7vxds4ciz9m2bfdp-marmite-0.2.5",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/b4mhcf8m2v9wf32z7vxds4ciz9m2bfdp-marmite-0.2.5"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/irl6sfc463g9y40ssfxkjv8cd349a1br-marmite-0.2.5",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/irl6sfc463g9y40ssfxkjv8cd349a1br-marmite-0.2.5"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/yyzbcl0bxg1g1b90m9vsxx7b7z039kz4-marmite-0.2.5",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/yyzbcl0bxg1g1b90m9vsxx7b7z039kz4-marmite-0.2.5"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/xbi59amnr46if8dpkd7ry28lvhlw49pj-marmite-0.2.5",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/xbi59amnr46if8dpkd7ry28lvhlw49pj-marmite-0.2.5"
+        }
+      }
+    }
+  }
+}
